@@ -8,3 +8,5 @@ Fumble_Lose = ["Butter fingers cost you the game"]
 Fumble_Win = ["You recovered the ball you lucky mothertrucker!"]
 Qb_sack = ["Ya'll are getting me killed, let's do better on this play.", "Which one of ya'll took out an insurance policy on me!?", "That hurt worse than coding bootcamp!!!"]
 Qb_int = ["You just threw the ball and the game away wise guy", "You throw the ball to the other team more than you do your team, Game over."]
+fg_made = "It's gooooooooooooooooood, you win the Superbowl!"
+fg_miss = "You're a natural born loser! Game over."
